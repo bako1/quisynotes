@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1675800263885,
+  "timestamp": 1675949119167,
   "index": "/quisynotes/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/quisynotes/favicon.ico",
         "/quisynotes/index.html",
-        "/quisynotes/main.f1b1bbd041705136.js",
+        "/quisynotes/main.d878f03146d92ce8.js",
         "/quisynotes/manifest.webmanifest",
         "/quisynotes/polyfills.87680bda8a0c142d.js",
         "/quisynotes/runtime.24ae1baee4556175.js",
@@ -70,8 +70,8 @@
     "/quisynotes/assets/images/book-pc.png": "424ad7d4a4ce3367754bd4fadd20b4661151fb06",
     "/quisynotes/assets/images/pen_bok1.png": "01d1b1147ae6e7e26b35e16ec821ec5f0b100a00",
     "/quisynotes/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/quisynotes/index.html": "f0579038a6a83997695bed92826b9520af591738",
-    "/quisynotes/main.f1b1bbd041705136.js": "ac283c6c1d741db2a02c0ce282369b3406e7fc7e",
+    "/quisynotes/index.html": "f1ac205f0282e893cecf632b02a90205a70b2d0a",
+    "/quisynotes/main.d878f03146d92ce8.js": "9af8614eaf2b680af11c13092af3ce9cf3dff862",
     "/quisynotes/manifest.webmanifest": "eae4e6f0f14b246f9c563e484e9c33b47c9d3202",
     "/quisynotes/polyfills.87680bda8a0c142d.js": "9a501d27f29592febfc2fda02e9e74990450b003",
     "/quisynotes/runtime.24ae1baee4556175.js": "b0ba9e01c92c72de7044265a754e1869afca6d52",
